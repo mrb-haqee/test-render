@@ -22,7 +22,11 @@
         <!-- place navbar here -->
     </header>
     <main>
+        <h1>Hallo dari HTML</h1>
+
         <?= 'Hello World' ?>
+
+
 
     </main>
     <footer>
